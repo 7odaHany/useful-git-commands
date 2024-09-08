@@ -17,7 +17,6 @@
 * [Git log](#git-log)
 * [Checking what you are committing](#checking-what-you-are-committing)
 * [Useful Commands](#useful-commands)
-* [Useful Alias](#useful-alias)
 * [Contributing](#contributing)
 
 #### Git
